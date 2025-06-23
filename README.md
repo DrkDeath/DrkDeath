@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left"><a href="#">🔥   My Certifications:</a></h3>
+<h3 align="left"><a href="https://github.com/DrkDeath/Certifications/tree/main">🔥   My Certifications:</a></h3>
 
 ###
 
